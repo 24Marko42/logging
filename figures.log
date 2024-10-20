@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-10-20T13:09:13</date>
+  <millis>1729404553679</millis>
+  <sequence>0</sequence>
+  <logger>geometry2d.circle</logger>
+  <level>SEVERE</level>
+  <class>geometry2d.circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>
+The circle is created with a radius: 5.0</message>
+</record>
+<record>
+  <date>2024-10-20T13:09:13</date>
+  <millis>1729404553813</millis>
+  <sequence>4</sequence>
+  <logger>geometry2d.circle</logger>
+  <level>SEVERE</level>
+  <class>geometry2d.circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>
+Attempt to create a circle with a negative radius: -5.0</message>
+</record>
+<record>
+  <date>2024-10-20T13:09:13</date>
+  <millis>1729404553817</millis>
+  <sequence>8</sequence>
+  <logger>geometry2d.circle</logger>
+  <level>SEVERE</level>
+  <class>geometry2d.circle</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>
+The circle is created with a radius: 3.0</message>
+</record>
+</log>

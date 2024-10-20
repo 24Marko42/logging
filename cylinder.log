@@ -1,0 +1,7 @@
+окт 20, 2024 1:09:13 PM geometry3d.cylinder <init>
+FINEST: 
+The cylinder has been created: base=
+Circle {radius=5.0, area=78.53981633974483, perimeter=31.41592653589793}, height=10.56
+окт 20, 2024 1:09:13 PM geometry3d.cylinder <init>
+FINEST: 
+An attempt to create a cylinder with a negative height: -10.0
