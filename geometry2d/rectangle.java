@@ -1,7 +1,6 @@
 package geometry2d;
 
 import exceptions.InvalidDimensionException;
-import javafx.scene.shape.Rectangle;
 
 import java.util.logging.*;
 
@@ -9,7 +8,7 @@ import java.util.logging.*;
 public class rectangle implements figure {
     private double width; //Поле width хранит ширину прямоугольника.
     private double height; // Поле height хранит высоту прямоугольника.
-    private static final Logger logger = Logger.getLogger(Rectangle.class.getName());
+    private static final Logger logger = Logger.getLogger(rectangle.class.getName());
 
     static {
         try {

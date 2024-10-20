@@ -2,8 +2,8 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2024-10-20T13:09:13</date>
-  <millis>1729404553679</millis>
+  <date>2024-10-20T22:14:15</date>
+  <millis>1729437255667</millis>
   <sequence>0</sequence>
   <logger>geometry2d.circle</logger>
   <level>SEVERE</level>
@@ -14,8 +14,8 @@
 The circle is created with a radius: 5.0</message>
 </record>
 <record>
-  <date>2024-10-20T13:09:13</date>
-  <millis>1729404553813</millis>
+  <date>2024-10-20T22:14:15</date>
+  <millis>1729437255763</millis>
   <sequence>4</sequence>
   <logger>geometry2d.circle</logger>
   <level>SEVERE</level>
@@ -26,8 +26,8 @@ The circle is created with a radius: 5.0</message>
 Attempt to create a circle with a negative radius: -5.0</message>
 </record>
 <record>
-  <date>2024-10-20T13:09:13</date>
-  <millis>1729404553817</millis>
+  <date>2024-10-20T22:14:15</date>
+  <millis>1729437255770</millis>
   <sequence>8</sequence>
   <logger>geometry2d.circle</logger>
   <level>SEVERE</level>
